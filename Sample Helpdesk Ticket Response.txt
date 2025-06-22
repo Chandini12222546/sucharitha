@@ -1,0 +1,13 @@
+ Sample Helpdesk Ticket Response 
+
+
+Subject: RE: Software Access Issue
+
+Hi [User Name],
+
+Thank you for contacting us. I understand how frustrating it can be when you cannot access [Software Name]. I’ve checked your account, and access has now been enabled. Please try logging in again using your usual credentials.
+
+If the issue continues, don’t hesitate to reply to this message—we’ll be happy to assist further.
+
+Best regards,  
+IT Support Desk
