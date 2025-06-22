@@ -1,0 +1,15 @@
+Ticket Issue: “Email Not Working”
+
+Hello [User],
+
+Thank you for reaching out. I’m sorry to hear that you're having trouble with your email. I understand how frustrating that can be, especially when it impacts your daily work.
+
+To begin resolving this, could you please confirm if you're accessing your email via the Outlook desktop app or web browser? Also, let me know if you're seeing any error messages.
+
+In the meantime, I’ll check the mail server status and your account settings. I’ll follow up within the next 30 minutes with an update.
+
+Thank you for your patience, and I’m here to help every step of the way.
+
+Best regards,
+[Your Name]
+IT Support Specialist
